@@ -1,0 +1,12 @@
+[submodule "frontend"]
+	path = frontend
+	url = git@github.com:emmaneugene/scamsword-frontend.git
+[submodule "site-inspect"]
+	path = site-inspect
+	url = git@github.com:emmaneugene/scamsword-site-inspect.git
+[submodule "scam-chat"]
+	path = scam-chat
+	url = git@github.com:emmaneugene/scamsword-scam-chat.git
+[submodule "favicon-check"]
+	path = favicon-check
+	url = git@github.com:emmaneugene/scamsword-favicon-checker.git
